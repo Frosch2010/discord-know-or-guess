@@ -3,7 +3,7 @@
 # discord-know-or-guess
 
 <p>
-<img src=https://img.shields.io/badge/Beta_Version-1.0.2-red>
+<img src=https://img.shields.io/badge/Beta_Version-1.0.3-green>
 <p>
 </div>
 
