@@ -12,6 +12,8 @@
 Welches Team hat alle Fragen gewusst oder doch nur richtig geraten?! Duelliere dich in Teams mit deinen Freunden über Discord in über 6000 Fragen aus 40 Kategorien. Einfach den Bot einladen und kurz einrichten, fertig!
 
  [Lade den Bot jetzt auf deinen Server ein und werde zum Quizmaster 😃](https://discord.com/api/oauth2/authorize?client_id=822529025666187355&permissions=8&scope=bot)
+ 
+ Nicht das richtige Spiel für dich? Probiere [Taboo](https://github.com/Frosch2010/discord-taboo) oder [Color-Cards](https://github.com/Frosch2010/discord-color-cards) aus!
 
 ## Features
 
