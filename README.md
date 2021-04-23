@@ -31,13 +31,13 @@ Welches Team hat alle Fragen gewusst oder doch nur richtig geraten?! Duelliere d
 
 ‌‌ [Lade den Bot jetzt auf deinen Server ein ❤️](https://discord.com/api/oauth2/authorize?client_id=822529025666187355&permissions=8&scope=bot)
 
-## Spielmodis & Spielablauf
+## Spielmodi & Spielablauf
 
 <img src="https://github.com/Frosch2010/discord-know-or-guess/blob/main/screenshots/Kategoriewahl.jpg" align="left">
 
 Zu Beginn wird beim Start ein Spielmodus ausgewählt. Je nach Modus unterscheidet sich das Spiel etwas. (Derzeit gibt es nur einen Spielmodus, aber weitere sind geplant.)
 
-**Spielmodis:**
+**Spielmodi:**
 
 ‌‌💯 = Zuerst stimmen alle Spieler ab, aus welcher Kategorie die nächste Frage kommen soll. Anschließend wird beiden Teams die gleiche Frage gestellt. Wird diese richtig beantwortet, gibt es einen Punkt. Dies geht solange, bis ein Team die Punktzahl zum gewinnen erreicht hat. Sollte ein Gleichstand entstehen, wird wieder eine Kategeorie ausgewählt und im Anschluss gewinnt das Team, was zuerst die folgende Frage richtig beantwortet. Wird diese jedoch falsch beantwortet, gewinnt das andere Team.
 
